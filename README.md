@@ -13,3 +13,10 @@ Uses 6x 10mm and 1x 8mm anti vandal buttons, this is enough for L3 Touchpad R3 S
 Designed for use with MadCatz VS (does not sit flush with art+plexi, this is intended)
 
 Test prints were done in black resin from JLCPCB
+
+Please remember to give credit where its due.
+
+DISCLAIMER:
+
+I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
+
