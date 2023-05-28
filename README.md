@@ -11,3 +11,5 @@ Uses 6x 10mm and 1x 8mm anti vandal buttons, this is enough for L3 Touchpad R3 S
 4x 3mm LED bulbs for player LEDs
 
 Designed for use with MadCatz VS (does not sit flush with art+plexi, this is intended)
+
+Test prints were done in black resin from JLCPCB
